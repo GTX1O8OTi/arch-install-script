@@ -1,2 +1,1 @@
-# arch-install-script
-meu script de instalação
+# meu script de instalação
